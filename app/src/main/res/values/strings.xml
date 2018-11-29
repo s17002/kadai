@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="Title">クイズゲーム</string>
+    <string name="Normal">ノーマル</string>
+    <string name="Hard">ハード</string>
+    <string name="Landom">ランダム</string>
+
+
+</resources>
