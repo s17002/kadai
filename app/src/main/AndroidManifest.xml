@@ -18,7 +18,11 @@
         </activity>
         <activity android:name=".FirstActivity" />
         <activity android:name=".SecondActivity" />
-        <activity android:name=".thirdActivity"></activity>
+        <activity android:name=".thirdActivity" />
+        <activity android:name=".AnswerActivity" />
+        <activity android:name=".Answer2Activity" />
+        <activity android:name=".CategoryActivity" />
+        <activity android:name=".CategoryHardActivity"></activity>
     </application>
 
 </manifest>

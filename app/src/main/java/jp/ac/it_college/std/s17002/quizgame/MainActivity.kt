@@ -17,14 +17,15 @@ class MainActivity : AppCompatActivity() {
         }
 
         button8.setOnClickListener{
-            val intent = Intent(this, FirstActivity::class.java )
+            val intent = Intent(this, SecondActivity::class.java )
             startActivity(intent)
         }
 
         button9.setOnClickListener{
-            val intent = Intent (this, FirstActivity::class.java)
+            val intent = Intent (this, thirdActivity::class.java)
             startActivity(intent)
         }
+
     }
 
 
